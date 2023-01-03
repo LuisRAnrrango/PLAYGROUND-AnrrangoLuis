@@ -1,0 +1,130 @@
+.home {
+  position: absolute;
+  width: 173px;
+  height: 24px;
+  left: 80px;
+  top: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+.imccal {
+  position: absolute;
+  width: 173px;
+  height: 24px;
+  left: 203px;
+  top: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+.agecal {
+  position: absolute;
+  width: 173px;
+  height: 24px;
+  left: 376px;
+  top: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+.kruger {
+  position: absolute;
+  left: 28.16%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28.4444px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+.clock {
+  position: absolute;
+  width: 173px;
+  height: 24px;
+  left: 803px;
+  top: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  text-align: right;
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+.about {
+  position: absolute;
+  width: 173px;
+  height: 24px;
+  left: 948px;
+  top: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  text-align: right;
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+.contact {
+  position: absolute;
+  width: 173px;
+  height: 24px;
+  left: 1091px;
+  top: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  text-align: right;
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}

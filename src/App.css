@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+/* .footer {
+  width: 100%;
+  background-color: aqua;
+
+  bottom: 0;
+}
+.footer-container {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background-color: aqua;
+} */
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background-color: #ffff;
+}
+.footer p {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 45px;
+}
+
