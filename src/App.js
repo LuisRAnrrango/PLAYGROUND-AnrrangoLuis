@@ -9,6 +9,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Imccalculator } from "./pages/Imccalculator";
 import { Agecalculator } from "./pages/Agecalculator";
 import { Myclock } from "./pages/Myclock";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.min.js";
 
 const App = () => {
   const footerInfo = {
